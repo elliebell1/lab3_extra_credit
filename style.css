@@ -1,0 +1,7 @@
+body, body *:not(i) {
+  font-family: "Georgia", serif !important;
+}
+
+a {
+  color: hotpink;
+}
